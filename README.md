@@ -4,7 +4,7 @@ Welcome to the complete C programming course! This course will take you from bas
 
 ## 📚 Course Index
 
-### **Module 1: Introduction to C**
+### **[Module 1: Introduction to C](module-01-introduction/README.md)**
 
 * What is C?
 * Why C?
@@ -12,7 +12,7 @@ Welcome to the complete C programming course! This course will take you from bas
 * Your first C program
 * Compilation process
 
-### **Module 2: C Fundamentals**
+### **[Module 2: C Fundamentals](module-02-fundamentals/README.md)**
 
 * Data types and variables
 * Input/output operations
@@ -20,7 +20,7 @@ Welcome to the complete C programming course! This course will take you from bas
 * Control flow (if, switch, loops)
 * Functions
 
-### **Module 3: Advanced C Concepts**
+### **[Module 3: Advanced C Concepts](module-03-advanced-concepts/README.md)**
 
 * Arrays and strings
 * Pointers and memory addresses
@@ -28,7 +28,7 @@ Welcome to the complete C programming course! This course will take you from bas
 * Function pointers
 * Preprocessor directives
 
-### **Module 4: Memory Management**
+### **[Module 4: Memory Management](module-04-memory-management/README.md)**
 
 * Stack vs Heap memory
 * Dynamic memory allocation
@@ -36,7 +36,7 @@ Welcome to the complete C programming course! This course will take you from bas
 * Best practices
 * Working with arrays dynamically
 
-### **Module 5: File I/O and System Programming**
+### **[Module 5: File I/O and System Programming](module-05-file-io/README.md)**
 
 * File operations
 * Error handling
@@ -44,7 +44,7 @@ Welcome to the complete C programming course! This course will take you from bas
 * System calls basics
 * Process management
 
-### **Module 6: Data Structures and Algorithms**
+### **[Module 6: Data Structures and Algorithms](module-06-data-structures/README.md)**
 
 * Linked lists
 * Stacks and queues
@@ -52,7 +52,7 @@ Welcome to the complete C programming course! This course will take you from bas
 * Sorting algorithms
 * Searching algorithms
 
-### **Module 7: Practical Exercises**
+### **[Module 7: Practical Exercises](module-07-exercises/README.md)**
 
 * Progressive exercises
 * Real projects
